@@ -1,0 +1,6 @@
+{
+  "name": "Şeker Eşleştirme Oyunu",
+  "description": "Modern, mobil uyumlu ve günlük ödül sistemli, skorların çerezlerde saklandığı şık bir şeker eşleştirme oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
